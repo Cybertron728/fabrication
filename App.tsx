@@ -26,7 +26,7 @@ import {
 import { Metric, Service, HomeService, Project, FaqItem, Testimonial } from './types';
 
 /* --- CONSTANTS --- */
-const BRAND_LOGO_URL = 'https://raw.githubusercontent.com/Cybertron728/fabrication/main/logo.png'; // REPLACE THIS WITH YOUR PNG LOGO PATH
+const BRAND_LOGO_URL = '/logo.png'; // REPLACE THIS WITH YOUR PNG LOGO PATH
 
 /* --- TYPES --- */
 type Language = 'en' | 'gu';
