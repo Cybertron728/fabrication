@@ -142,7 +142,7 @@ const PROJECT_GALLERY_EN: Project[] = [
     id: 1, 
     type: 'builder', 
     category: 'Healthcare', 
-    title: 'BT Savani Hospital', 
+    title: 'BT Savani Hospital..', 
     location: 'Rajkot',
     thumbnail: 'https://raw.githubusercontent.com/Cybertron728/fabrication/main/images/other%20residence%20and%20industrial%20fabrication%20works/IMG-20240715-WA0034.jpg',
     media: [
